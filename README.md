@@ -1,1 +1,1 @@
-# netbox-import
+Импорт устройств в Netbox с помощью CSV, JSON, YAML
