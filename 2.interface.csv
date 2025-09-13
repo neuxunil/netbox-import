@@ -1,0 +1,3 @@
+device,name,type,mac_address
+AP_01,RS1,ieee802.11ac,00:00:00:00:00:01
+AP_02,RS1,ieee802.11ac,00:00:00:00:00:02

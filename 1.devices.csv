@@ -1,0 +1,3 @@
+name ,role ,tenant ,manufacturer ,device_type ,serial ,status ,site ,location
+AP_01,Access Point,,CISCO,AP3502I,SN12345,active,MSK,Office
+AP_02,Access Point,,HUAWEI,AP6761,SN54321,active,MSK,Office

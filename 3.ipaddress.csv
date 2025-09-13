@@ -1,0 +1,3 @@
+address,status,interface,device,is_primary
+10.10.1.1/24,active,Gi1,AP_01,true
+10.10.1.2/24,active,Gi1,AP_02,true
