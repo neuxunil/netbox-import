@@ -44,8 +44,9 @@ https://www.convertcsv.com/csv-to-json.htm
 Step 1: Select your input - Choose File - Нажать кнопку обзор
 
 Скачать json файл, нажав Download Result
-https://www.convertcsv.com/csv-to-json.htm
-https://www.convertcsv.com/csv-to-json.htm
+<img width="1512" height="984" alt="image" src="https://github.com/user-attachments/assets/9f61162c-d3d0-491b-bebf-ccd7d3352d08" />
+
+
 Импорт файла в формате JSON
 
 Переходим на страницу Devices (или другую страницу для которой предназначен файл), выбираем Import, далее нажать Upload file
@@ -64,12 +65,12 @@ Required (если стоит галочка - обязательный пара
 
     Идём в соответствующий раздел и создаём их начиная с шага один. Для примера поле device_type.Переходим на страницу Device Types, далее можно добавить вручную если типов устройств немного или следуя первому шагу.
 
-Required (если стоит галочка - обязательный параметр, должен быть в таблице)
-Required (если стоит галочка - обязательный параметр, должен быть в таблице)
+<img width="1560" height="851" alt="image" src="https://github.com/user-attachments/assets/bec234b5-1f4d-4e27-a6d3-702187825692" />
+
 
 При успешном импорте появятся добавленная таблица и надпись Imported <кол-во устройств> devices (импортировал сначала по 50, потом решил около 300 импортировать всё прошло успешно, только долго ждать) Если покажет ошибку то смотреть её описание (скорей всего это неправильно названы столбцы, нет такого устройства, возможно пробел в ячейку попал).
-Imported 21 devices. Всё успешно
-Imported 21 devices. Всё успешно
+<img width="423" height="84" alt="image" src="https://github.com/user-attachments/assets/13ba2436-3a14-463d-9761-5fd9ba6472be" />
+
 
 Инструкция проверялась на версии NetBox 3.6.2
 Заключение
