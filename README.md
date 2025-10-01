@@ -33,7 +33,8 @@ https://habr.com/ru/sandbox/257762/
 В поле Найти:^. — крышечка, точка, звёздочка
 
 В поле **Заменить на *&/24
-Сохранить файл xlsx в формат csv
+
+### Сохранить файл xlsx в формат csv
 
 В LibreOffice выбрать Файл - Сохранить как…, с такими параметрами
 <img width="642" height="356" alt="image" src="https://github.com/user-attachments/assets/f5836a12-4523-4244-a478-181f73b58b33" />
